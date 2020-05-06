@@ -1,0 +1,4 @@
+dn: o=anything,dc=cqq,dc=com
+objectclass: top
+objectclass: organization
+o: anything
